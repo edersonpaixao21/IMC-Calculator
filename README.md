@@ -1,6 +1,6 @@
 <p align="center">
 <h1>
- IMC calculator
+ IMC Calculator
 </h1>
 </p>
 
