@@ -18,7 +18,7 @@ Interface do usuário.
 <p align="center">
   <kbd>
  <img width="auto" style="border-radius: 10px" height="auto" 
- src="https://github.com/edersonpaixao21/VirtualPiano/blob/master/components/assets/GifPreview.gif" alt="Intro">
+ src="https://github.com/edersonpaixao21/IMC-Calculator/blob/master/src/assets/GifPreview.gif" alt="Intro">
   </kbd>
   </br>
 </p>
@@ -30,7 +30,7 @@ Para a utilização é preciso clonar o repositório, instalar as depedências e
 
 ```bash
 # Abra o terminal/cmd e em seguida Clone este repositório
-$ git clone https://github.com/edersonpaixao21/IMC-Calculator/blob/master/src/assets/GifPreview.gif
+$ git clone https://github.com/edersonpaixao21/IMC-Calculator.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd VirtualPiano
