@@ -33,7 +33,7 @@ Para a utilização é preciso clonar o repositório, instalar as depedências e
 $ git clone https://github.com/edersonpaixao21/IMC-Calculator.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd VirtualPiano
+$ cd IMC-Calculator
 
 # Instale as dependências
 $ yarn install ou apenas yarn
